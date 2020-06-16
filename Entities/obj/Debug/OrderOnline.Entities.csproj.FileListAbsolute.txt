@@ -1,0 +1,6 @@
+D:\Verduleria\App Development\OrderOnline\Entities\bin\Debug\Entities.dll
+D:\Verduleria\App Development\OrderOnline\Entities\bin\Debug\Entities.pdb
+D:\Verduleria\App Development\OrderOnline\Entities\obj\Debug\OrderOnline.Entities.csprojAssemblyReference.cache
+D:\Verduleria\App Development\OrderOnline\Entities\obj\Debug\OrderOnline.Entities.csproj.CoreCompileInputs.cache
+D:\Verduleria\App Development\OrderOnline\Entities\obj\Debug\Entities.dll
+D:\Verduleria\App Development\OrderOnline\Entities\obj\Debug\Entities.pdb

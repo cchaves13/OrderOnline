@@ -1,0 +1,9 @@
+D:\Verduleria\App Development\OrderOnline\OrderOnline\bin\Debug\OrderOnline.dacpac
+D:\Verduleria\App Development\OrderOnline\OrderOnline\bin\Debug\OrderOnline.dll
+D:\Verduleria\App Development\OrderOnline\OrderOnline\bin\Debug\OrderOnline.pdb
+D:\Verduleria\App Development\OrderOnline\OrderOnline\obj\Debug\Model.xml
+D:\Verduleria\App Development\OrderOnline\OrderOnline\obj\Debug\refactor.xml
+D:\Verduleria\App Development\OrderOnline\OrderOnline\obj\Debug\postdeploy.sql
+D:\Verduleria\App Development\OrderOnline\OrderOnline\obj\Debug\predeploy.sql
+D:\Verduleria\App Development\OrderOnline\OrderOnline\obj\Debug\OrderOnline.dll
+D:\Verduleria\App Development\OrderOnline\OrderOnline\obj\Debug\OrderOnline.pdb

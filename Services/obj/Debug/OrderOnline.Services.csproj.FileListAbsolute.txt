@@ -1,0 +1,17 @@
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\Services.dll.config
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\Services.dll
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\Services.pdb
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\DataAccess.dll
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\Entities.dll
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\EntityFramework.dll
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\DataAccess.pdb
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\DataAccess.dll.config
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\Entities.pdb
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\EntityFramework.xml
+D:\Verduleria\App Development\OrderOnline\Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Verduleria\App Development\OrderOnline\Services\obj\Debug\OrderOnline.Services.csprojAssemblyReference.cache
+D:\Verduleria\App Development\OrderOnline\Services\obj\Debug\OrderOnline.Services.csproj.CoreCompileInputs.cache
+D:\Verduleria\App Development\OrderOnline\Services\obj\Debug\OrderOnline.Services.csproj.CopyComplete
+D:\Verduleria\App Development\OrderOnline\Services\obj\Debug\Services.dll
+D:\Verduleria\App Development\OrderOnline\Services\obj\Debug\Services.pdb
