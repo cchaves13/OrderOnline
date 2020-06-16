@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderOnline.Entities", "Ent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderOnline.Services", "Services\OrderOnline.Services.csproj", "{5FC01AEA-37FF-45AD-B2D9-BA68E0E294C4}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OrderOnline.SQL", "OrderOnline.SQL\OrderOnline.SQL.sqlproj", "{4C84D465-0BF8-498C-8ACC-2978EF8C8035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,12 @@ Global
 		{5FC01AEA-37FF-45AD-B2D9-BA68E0E294C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FC01AEA-37FF-45AD-B2D9-BA68E0E294C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FC01AEA-37FF-45AD-B2D9-BA68E0E294C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C84D465-0BF8-498C-8ACC-2978EF8C8035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C84D465-0BF8-498C-8ACC-2978EF8C8035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C84D465-0BF8-498C-8ACC-2978EF8C8035}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4C84D465-0BF8-498C-8ACC-2978EF8C8035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C84D465-0BF8-498C-8ACC-2978EF8C8035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C84D465-0BF8-498C-8ACC-2978EF8C8035}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

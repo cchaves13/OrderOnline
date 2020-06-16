@@ -1,0 +1,10 @@
+6/16/2020 10:42:21 AM	This log contains information about the import schema operation into project 'OrderOnline.SQL' on computer 'LAPTOP-I63AG055' by user 'User'.
+6/16/2020 10:42:21 AM	Deserializing model
+6/16/2020 10:42:21 AM	Resolving model
+6/16/2020 10:42:21 AM	Visiting imported model for types
+6/16/2020 10:42:22 AM	Scanning project for duplicate elements
+6/16/2020 10:42:22 AM	Finished duplicate element processing
+6/16/2020 10:42:22 AM	Processing extra files
+6/16/2020 10:42:22 AM	Finished importing Data-tier Application file.
+6/16/2020 10:42:22 AM	A summary of the import was saved to the following location: D:\Verduleria\App Development\OrderOnline\OrderOnline.SQL\Import Schema Logs\OrderOnline.SQL_20200616044221.log
+6/16/2020 10:42:22 AM	Click Finish to continue...
