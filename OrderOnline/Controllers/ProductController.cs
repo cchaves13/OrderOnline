@@ -5,28 +5,32 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using Entities.Models;
+using System.Web.Http.Cors;
 
 namespace OrderOnline.Controllers
 {
+    //[EnableCors(origins: "*", headers: "**", methods: "*")]
     public class ProductController : ApiController
     {
         ProductService ProductService = new ProductService();
+
+        
         // GET api/values
-        public IEnumerable<string> Get()
+        public IEnumerable<Product> Get()
         {
-            var product = ProductService.GetProductById(1);
-            return new string[] { "value1", "value2" };
+            return ProductService.GetAllProducts(); ;
         }
 
         // GET api/values/5
-        public string Get(int id)
+        public Product Get(int id)
         {
-            return "value";
+            return ProductService.GetProductById(id);
         }
 
-        // POST api/values
-        public void Post([FromBody]string value)
+        public Product Post(Product product)
         {
+            return ProductService.AddProduct(product);
         }
 
         // PUT api/values/5
@@ -34,9 +38,11 @@ namespace OrderOnline.Controllers
         {
         }
 
-        // DELETE api/values/5
-        public void Delete(int id)
+        [HttpPost]
+        [Route("api/product/delete/{productId}")]
+        public Boolean Delete(int productId)
         {
+            return ProductService.DeleteProduct(productId);
         }
     }
 }
