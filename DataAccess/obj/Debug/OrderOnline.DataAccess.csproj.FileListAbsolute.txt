@@ -12,3 +12,17 @@ D:\Verduleria\App Development\OrderOnline\DataAccess\obj\Debug\OrderOnline.DataA
 D:\Verduleria\App Development\OrderOnline\DataAccess\obj\Debug\OrderOnline.DataAccess.csproj.CopyComplete
 D:\Verduleria\App Development\OrderOnline\DataAccess\obj\Debug\DataAccess.dll
 D:\Verduleria\App Development\OrderOnline\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\bin\Debug\Entities.dll
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\bin\Debug\EntityFramework.dll
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\bin\Debug\Entities.pdb
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\bin\Debug\EntityFramework.xml
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\obj\Debug\OrderOnline.DataAccess.csprojAssemblyReference.cache
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\obj\Debug\OrderOnline.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\obj\Debug\OrderOnline.DataAccess.csproj.CopyComplete
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\Verduleria\App Development\OrderOnline\DataAccess\obj\Debug\DataAccess.pdb

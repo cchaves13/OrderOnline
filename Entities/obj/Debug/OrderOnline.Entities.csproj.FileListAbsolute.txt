@@ -4,3 +4,8 @@ D:\Verduleria\App Development\OrderOnline\Entities\obj\Debug\OrderOnline.Entitie
 D:\Verduleria\App Development\OrderOnline\Entities\obj\Debug\OrderOnline.Entities.csproj.CoreCompileInputs.cache
 D:\Verduleria\App Development\OrderOnline\Entities\obj\Debug\Entities.dll
 D:\Verduleria\App Development\OrderOnline\Entities\obj\Debug\Entities.pdb
+D:\Projects\Verduleria\App Development\OrderOnline\Entities\bin\Debug\Entities.dll
+D:\Projects\Verduleria\App Development\OrderOnline\Entities\bin\Debug\Entities.pdb
+D:\Projects\Verduleria\App Development\OrderOnline\Entities\obj\Debug\OrderOnline.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\Verduleria\App Development\OrderOnline\Entities\obj\Debug\Entities.dll
+D:\Projects\Verduleria\App Development\OrderOnline\Entities\obj\Debug\Entities.pdb

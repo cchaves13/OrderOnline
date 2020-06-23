@@ -15,7 +15,7 @@
     <RootNamespace>OrderOnline.SQL</RootNamespace>
     <AssemblyName>OrderOnline.SQL</AssemblyName>
     <ModelCollation>1033, CI</ModelCollation>
-    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DefaultFileStructure>BySchema</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetLanguage>CS</TargetLanguage>
@@ -57,5 +57,12 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="dbo\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Clients.sql" />
+    <Build Include="dbo\OrderDetails.sql" />
+    <Build Include="dbo\Orders.sql" />
+    <Build Include="dbo\Products.sql" />
   </ItemGroup>
 </Project>

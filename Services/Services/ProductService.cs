@@ -25,5 +25,59 @@ namespace Services.Services
             }
            
         }
+
+        public IEnumerable<Product> GetAllProducts()
+        {
+            try
+            {
+                return DbContext.Products.ToList();
+            }
+            catch (Exception e)
+            {
+
+                throw;
+            }
+
+        }
+
+        public Product AddProduct(Product product)
+        {
+            if (product.Id > 0)
+            {
+                var productToEdit = DbContext.Products.FirstOrDefault(x => x.Id == product.Id);
+                if(product != null)
+                {
+                    var ee = DbContext.Entry(productToEdit);
+                    ee.CurrentValues.SetValues(product);
+                }
+            }
+            else
+            {
+                product = DbContext.Products.Add(product);
+            }
+            
+            
+            DbContext.SaveChanges();
+            
+            return product;
+        }
+
+        public Boolean DeleteProduct(int productId)
+        {
+            try
+            {
+               var productToRemove = DbContext.Products.FirstOrDefault(x => x.Id== productId);
+                DbContext.Products.Remove(productToRemove);
+                DbContext.SaveChanges();
+                return true;
+
+            }
+            catch (Exception)
+            {
+
+                return false;
+            }
+           
+        }
     }
 }
